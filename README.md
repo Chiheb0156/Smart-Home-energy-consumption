@@ -302,7 +302,7 @@ Validation loss tracks closely with training loss, confirming the models general
 **Chiheb**
 🎓 AI Lab Project — Smart Home Energy Management
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chiheb-bt-181717?style=for-the-badge&logo=github)](https://github.com/Chiheb-bt)
+[![GitHub](https://img.shields.io/badge/GitHub-Chiheb--bt-181717?style=for-the-badge&logo=github)](https://github.com/Chiheb-bt)
 
 </div>
 
